@@ -2,8 +2,9 @@
 
 <details>
 <summary>📑 Publications</summary>
-  
-  > * [ESMO 2024](https://www.esmo.org/): [Deep learning tertiary lymphoid structures detection on HES/H&E slides and association to survival outcome in sarcoma](https://oncologypro.esmo.org/meeting-resources/esmo-congress-2024/deep-learning-tertiary-lymphoid-structures-detection-on-hes-h-e-slides-and-association-to-survival-outcome-in-sarcoma)
+
+  > * [ESMO 2024](https://www.esmo.org/): Deep learning tertiary lymphoid structures detection on HES/H&E slides and association to survival outcome in sarcoma
+  >   * [abstract](https://oncologypro.esmo.org/meeting-resources/esmo-congress-2024/deep-learning-tertiary-lymphoid-structures-detection-on-hes-h-e-slides-and-association-to-survival-outcome-in-sarcoma)
   >   * [poster](ressources/esmo_2024_poster.pdf)
 </details>
 
