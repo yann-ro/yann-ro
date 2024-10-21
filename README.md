@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <details>
-<summary>👨‍🎓 Certificates</summary>
+<summary>🎖️ Certificates</summary>
   
   > ## 🤖 Machine learning
   
