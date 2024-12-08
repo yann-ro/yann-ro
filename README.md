@@ -37,5 +37,5 @@
 
   > ## 🧬 Science
   
-  > * [Introduction to the Biology of Cancer](https://coursera.org/share/730e4c656af2452dff6d94f4fbcb4347)
+  > * [Introduction to the Biology of Cancer](https://coursera.org/share/730e4c656af2452dff6d94f4fbcb4347), Johns Hopkins University
 </details>
