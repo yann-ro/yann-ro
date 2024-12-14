@@ -6,6 +6,8 @@
   > * [ESMO 2024](https://www.esmo.org/): Deep learning tertiary lymphoid structures detection on HES/H&E slides and association to survival outcome in sarcoma
   >   * [abstract](https://oncologypro.esmo.org/meeting-resources/esmo-congress-2024/deep-learning-tertiary-lymphoid-structures-detection-on-hes-h-e-slides-and-association-to-survival-outcome-in-sarcoma)
   >   * [poster](ressources/esmo_2024_poster.pdf)
+  > * [DP&AI 2024](): Development of TLS  Detect, a deep learning tool to predict the presence of tertiary lymphoid structures (TLS) on pan-tumor routine whole slide images
+  >   * [poster](ressources/DP&AI_2024_poster.pdf)
 </details>
 
 <details>
