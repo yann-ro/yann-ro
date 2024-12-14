@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <details>
 <summary>📑 Publications</summary>
