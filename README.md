@@ -15,11 +15,11 @@
   
   > ## 🤖 Machine learning
   
-  > * [Machine learning operations specialization](), Duke University
-  >   * [Python Essentials for MLOps]()   
-  >   * [DevOps, DataOps, MLOps]()   
-  >   * [MLOps Platforms: Amazon SageMaker and Azure ML]()   
-  >   * [MLOps Tools: MLflow and Hugging Face]()   
+  > * [Machine learning operations specialization](https://coursera.org/share/06352d9efb4c7c72f99d3aeedc704f4f), Duke University
+  >   * [Python Essentials for MLOps](https://coursera.org/share/9a25b254735921a443944fac6b661b78)   
+  >   * [DevOps, DataOps, MLOps](https://coursera.org/share/9a25b254735921a443944fac6b661b78)   
+  >   * [MLOps Platforms: Amazon SageMaker and Azure ML](https://coursera.org/share/9c7b3feca1bee1f3ef9c854b01c923cb)   
+  >   * [MLOps Tools: MLflow and Hugging Face](https://coursera.org/share/0ff9b3de8abaaf98f600b0e066756c1e)   
   
   > * [AI for Medical Diagnosis](https://coursera.org/share/5a30826ce7ef1aef9912b7e0cef9fb13), Johns Hopkins University
   
